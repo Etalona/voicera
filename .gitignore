@@ -1,0 +1,4 @@
+.idea
+node_modules/*
+/source/css/style.css
+/source/css/style.css.map
